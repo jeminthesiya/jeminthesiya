@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jeminthesiya
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning Red & White Multimedia Education
